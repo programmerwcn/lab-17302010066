@@ -1,0 +1,22 @@
+table{
+   border-spacing: 0;
+    margin: 0 auto;
+}
+
+#head{
+    color:whitesmoke ;
+    background-color: gray;
+}
+
+.even{
+    background-color: lightgray;
+}
+
+table td{
+    padding: 0.5em;
+    width: auto;
+}
+
+div{
+    text-align: center;
+}
